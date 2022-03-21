@@ -1,0 +1,8 @@
+name: LobbyNAV
+version: '${project.version}'
+main: n0devx.lobbynav.LobbyNAV
+api-version: 1.18
+authors: [ N0devx ]
+commands:
+  message:
+  warp:
